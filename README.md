@@ -1,10 +1,34 @@
-# zemi_python_d6y
+# Python Distributions for Project ZEMI
 
-https://share.gemini.google/avvMjZnKzHvA
+Welcome to the Python distribution repository optimized for the **ZEMI** ecosystem and the **Axoma Way** methodology. Below you will find the relevant builds, direct download links, and environment recommendations.
 
-We use Python 3.12.x to develop:
+---
 
-1. For User Desktop: Release 2025-03 of June 28th, 2025, WinPython64-3.12.10.1dot, WinPython64-3.12.10.1slim, WinPython64-3.12.10.1whl
-2. For LLM inside OpenWebUI ?
+## 📌 Core Development Version
+To ensure architectural stability, minimize boilerplate code, and seamlessly support distributed ML/Ops pipelines, all development is standardizing on:
+* **Python 3.12.x**
+
+---
+
+## 💻 For User Desktop Workstations
+
+**Release Date:** June 28, 2025 (`Release 2025-03`).  
+We utilize portable **WinPython** (64-bit) builds, which are ideal for data engineering tasks and transitioning seamlessly from spreadsheets to Python.
+
+Choose the appropriate flavor for your deployment requirement:
+
+| Edition | Description | Download Link |
+| :--- | :--- | :--- |
+| **WinPython64-3.12.10.1dot** | Standard distribution with dot configuration utilities and base path handling. | [Download WinPython 3.12.10.1dot](https://github.com/winpython/winpython/releases/download/7.3.20250328/WinPython64-3.12.10.1dot.exe) |
+| **WinPython64-3.12.10.1slim** | Lightweight core package containing only the Python kernel and essential packages. Ideal for keeping clean abstractions. | [Download WinPython 3.12.10.1slim](https://github.com/winpython/winpython/releases/download/7.3.20250328/WinPython64-3.12.10.1slim.exe) |
+| **WinPython64-3.12.10.1whl** | Comprehensive build packed with pre-compiled wheels. Perfect for air-gapped, fully autonomous offline environments. | [Download WinPython 3.12.10.1whl](https://github.com/winpython/winpython/releases/download/7.3.20250328/WinPython64-3.12.10.1whl.exe) |
+
+---
+
+## 🤖 LLM Execution Environments & OpenWebUI
+
+TODO ?
+
+*Maintained by Team AXOMA for Product ZEMI.*
 
 
