@@ -2,7 +2,10 @@
 
 https://share.gemini.google/avvMjZnKzHvA
 
+We use Python 3.12.x to develop:
 
+1. Python 3.12.10 64bit for user desktop
+2. WinPython64-3.12.10.1dot, WinPython64-3.12.10.1slim, WinPython64-3.12.10.1whl
 
 Release 2025-03 of June 28th, 2025
 
