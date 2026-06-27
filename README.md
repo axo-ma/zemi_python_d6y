@@ -6,8 +6,8 @@ Welcome to the Python distribution repository optimized for the **ZEMI** ecosyst
 
 ## 📌 Core Development Version
 To ensure architectural stability, minimize boilerplate code, and seamlessly support distributed ML/Ops pipelines, all development is standardizing on:
-* **Python 3.12.x**
-
+* **[Python 3.12.x](https://axoma.youtrack.cloud/articles/ZEM-A-1/ZEMI-PYTHON)**
+  
 ---
 
 ## 💻 For User Desktop Workstations
