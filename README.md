@@ -19,9 +19,9 @@ Choose the appropriate flavor for your deployment requirement:
 
 | Edition | Description | Download Link |
 | :--- | :--- | :--- |
-| **WinPython64-3.12.10.1dot** | Standard distribution with dot configuration utilities and base path handling. | [Download WinPython 3.12.10.1dot](https://github.com/winpython/winpython/releases/download/7.3.20250328/WinPython64-3.12.10.1dot.exe) |
-| **WinPython64-3.12.10.1slim** | Lightweight core package containing only the Python kernel and essential packages. Ideal for keeping clean abstractions. | [Download WinPython 3.12.10.1slim](https://github.com/winpython/winpython/releases/download/7.3.20250328/WinPython64-3.12.10.1slim.exe) |
-| **WinPython64-3.12.10.1whl** | Comprehensive build packed with pre-compiled wheels. Perfect for air-gapped, fully autonomous offline environments. | [Download WinPython 3.12.10.1whl](https://github.com/winpython/winpython/releases/download/7.3.20250328/WinPython64-3.12.10.1whl.exe) |
+| **WinPython64-3.12.10.1dot** | Standard distribution with dot configuration utilities and base path handling. | [Download WinPython 3.12.10.1dot](https://github.com/winpython/winpython/releases/download/16.6.20250620final/Winpython64-3.12.10.1dot.zip) |
+| **WinPython64-3.12.10.1slim** | Lightweight core package containing only the Python kernel and essential packages. Ideal for keeping clean abstractions. | [Download WinPython 3.12.10.1slim](https://github.com/winpython/winpython/releases/download/16.6.20250620final/Winpython64-3.12.10.1slim.7z) |
+| **WinPython64-3.12.10.1whl** | Comprehensive build packed with pre-compiled wheels. Perfect for air-gapped, fully autonomous offline environments. | [Download WinPython 3.12.10.1whl](https://github.com/winpython/winpython/releases/download/16.6.20250620final/Winpython64-3.12.10.1whl.7z) |
 
 ---
 
